@@ -4,7 +4,8 @@ warm-up
 13 . Hello World
 
 easy 13
-4-Pick 7 .Readonly
+4-Pick
+7.Readonly
 11 . Tuple to object
 14 - First of Array
 18 - Length of Tuple
